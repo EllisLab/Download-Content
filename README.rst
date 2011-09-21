@@ -24,6 +24,6 @@ Example
 
 ::
 
-	{exp:content_download filename="foo.txt"}
+	{exp:download_content filename="foo.txt"}
 	Some random content, maybe from a weblog tag.
-	{/exp:content_download}
+	{/exp:download_content}

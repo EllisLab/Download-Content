@@ -83,9 +83,9 @@ tags that would be parsed after the plugin.
 PARAMS
 filename=	the file name to use for the download
 
-{exp:content_download filename="foo.txt"}
+{exp:download_content filename="foo.txt"}
 Some random content, maybe from a channel tag.
-{/exp:content_download}
+{/exp:download_content}
 PHART;
  	}
 
