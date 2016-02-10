@@ -1,4 +1,4 @@
-# Download Content Plugins
+# Download Content Plugin
 
 This plugin takes the content within the tag pair and forces a file download in the web browser with its contents, allowing you to turn template output into downloadable files.
 
