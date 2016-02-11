@@ -27,11 +27,11 @@ in this Software without prior written authorization from EllisLab, Inc.
 /**
  * Download_content Class
  *
- * @package			ExpressionEngine
- * @category		Plugin
- * @author			EllisLab Dev Team
- * @copyright		Copyright (c) 2011 - 2016, EllisLab, Inc.
- * @link			https://ellislab.com
+ * @package	    ExpressionEngine
+ * @category    Plugin
+ * @author      EllisLab Dev Team
+ * @copyright   Copyright (c) 2011 - 2016, EllisLab, Inc.
+ * @link        https://ellislab.com
  */
 class Download_content {
 
