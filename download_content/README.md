@@ -32,6 +32,10 @@ Full server path to a writable directory on the server. If the directory does no
 
 ## Change Log
 
+### 3.0.1
+
+- Correcting spelling and documentation errors.
+
 ### 3.0
 
 - Updated plugin to be 3.0 compatible
