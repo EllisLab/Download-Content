@@ -32,6 +32,10 @@ Full server path to a writable directory on the server. If the directory does no
 
 ## Change Log
 
+### 3.1.0
+
+- Changed the plugin namespace to make it EE6 compatible.
+
 ### 3.0.1
 
 - Correcting spelling and documentation errors.
@@ -43,7 +47,7 @@ Full server path to a writable directory on the server. If the directory does no
 
 ## License
 
-Copyright (C) 2011-2016 EllisLab, Inc.
+Copyright (C) 2011-2020 Packet Tide, LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -62,6 +66,6 @@ ELLISLAB, INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Except as contained in this notice, the name of EllisLab, Inc. shall not be
+Except as contained in this notice, the name of Packet Tide, LLC. shall not be
 used in advertising or otherwise to promote the sale, use or other dealings
-in this Software without prior written authorization from EllisLab, Inc.
+in this Software without prior written authorization from Packet Tide, LLC.
